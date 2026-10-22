@@ -10,10 +10,7 @@ namespace GitHubTeamPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Наша первая командная программа!");
-
-            Console.WriteLine("Участник 1 работает над проектом.");
-            Console.WriteLine("Участник 2 работает над проектом.");
+            Console.WriteLine("Изменение второго участника");
         }
     }
 }
